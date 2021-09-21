@@ -1,3 +1,22 @@
-body{
-    background-color:blue
+body {
+    background-color: grey;
+    font-family: 'Open Sans', sans-serif;
 }
+
+.Main-Header{
+    text-align: center;
+    color:white
+}
+.Title_1{
+    font-size: larger;
+}
+.donate-link{
+    position: absolute;
+    top: 50px;
+    right: 30px;
+
+}
+.donate-link-bio{
+    word-wrap: break-word;
+    width: 238.5px;
+ }
