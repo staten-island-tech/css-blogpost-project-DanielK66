@@ -1,37 +1,59 @@
 body {
-    background-color: grey;
+    text-align: center;
+    background-color: red;
     font-family: 'Open Sans', sans-serif;
-}
-.donate-link{
-    color:white 
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
 }
 
+
 .Main-Header{
-    
     text-align: center;
-    color:white
+    color:white;
+    font-size: 40px;
 }
 .Title_1{
     font-size: larger;
 }
-.First-Post{
-    background-color: black;
+.American-Flag-01{
+    position: absolute;
+    top: 25px;
+    right: 25px;
 }
-.taliban-fun-boat{
-    border: 3px solid white;
-    background-color: black;
-    padding: 50px 50px;
+.American-Flag-02{
+    position: absolute;
+    top: 25px;
+    left: 25px;
 }
 .donate-link{
-    position: absolute; 
-    top: 50px;
-    right: 30px;
-    border: 3px solid white;
-    background-color: black;
-    padding: 50px 25px;
-
-}
-.donate-link-bio{
+    position: absolute;
+    top: 250px;
+    right: 50px;
+    background-color: blue;
+    border: 10px Solid white;
+    color:white;
     word-wrap: break-word;
     width: 238.5px;
- }
+}
+.First-Article{
+    margin-top: 100px;
+    border: 10px Solid white;
+    width: 1000px;
+    background-color: blue;
+    color:white 
+}
+.Second-Article{
+    margin-top: 100px;
+    border: 10px Solid white;
+    width: 1000px;
+    background-color: blue;
+    color:white 
+}
+.Third-Article{
+    margin-top: 100px;
+    border: 10px Solid white;
+    width: 1000px;
+    background-color: blue;
+    color:white 
+}
