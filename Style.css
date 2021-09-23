@@ -8,13 +8,10 @@ body {
 }
 
 
-.Main-Header{
+Header{
     text-align: center;
     color:white;
     font-size: 40px;
-}
-.Title_1{
-    font-size: larger;
 }
 .American-Flag-01{
     position: absolute;
@@ -36,21 +33,7 @@ body {
     word-wrap: break-word;
     width: 238.5px;
 }
-.First-Article{
-    margin-top: 100px;
-    border: 10px Solid white;
-    width: 1000px;
-    background-color: blue;
-    color:white 
-}
-.Second-Article{
-    margin-top: 100px;
-    border: 10px Solid white;
-    width: 1000px;
-    background-color: blue;
-    color:white 
-}
-.Third-Article{
+.Article{
     margin-top: 100px;
     border: 10px Solid white;
     width: 1000px;
